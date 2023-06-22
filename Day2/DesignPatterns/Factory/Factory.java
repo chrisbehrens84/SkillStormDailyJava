@@ -36,7 +36,7 @@ public class Factory {
 
 class SuperheroFactory {
   public static Superhero createSuperhero(String type){
-    if(type.equals("Captian America")) {
+    if(type.equals("Captian Americaa")) {
       return new CaptianAmerica();
     }
     else if(type.equals("Austin")){
